@@ -6,6 +6,7 @@
 <img alt="mosaicked pic chunkSide=4" src="chunkSide4.jpeg" width="200" height="200" />
 <img alt="mosaicked pic chunkSide=24" src="chunkSide24.jpeg" width="200" height="200" />
 <img alt="mosaicked pic chunkSide=44" src="chunkSide44.jpeg" width="200" height="200" />
+
 # Method
 1. Prepare many small images 
     * e.g. photos from phone album
